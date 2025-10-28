@@ -1,13 +1,3 @@
-## 📌 Tabla de Contenidos
-
-- [Descripción del proyecto](#descripción-del-proyecto)  
-- [Estado del proyecto](#estado-del-proyecto)   
-- [Funcionalidades](#funcionalidades)  
-- [Tecnologías](#tecnologías)  
-- [Instalación](#instalación)  
-
----
-
 ## 📖 Descripción del proyecto
 
 Este proyecto es un **sistema de autenticación híbrido** para una tienda de comercio electrónico.  
