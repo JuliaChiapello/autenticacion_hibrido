@@ -72,8 +72,3 @@ El frontend está construido con **React.js**, y el backend con **Node.js + Expr
 
 ---
 
-## ⚙️ Instalación
-
-1. Clonar el repositorio  
-```bash
-git clone https://github.com/PaolaBasualdo/Hackaton-FullStack-Auth.git
